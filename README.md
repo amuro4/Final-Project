@@ -52,7 +52,7 @@ Ensure you have R and RStudio installed.
    ```bash
    git clone https://github.com/username/PalmerPenguinsApp.git
 
-2. **Installl the required R packages**
+2. **Installl the required R packages:**
    install.packages(c("shiny", "ggplot2", "dplyr", "palmerpenguins"))
 devtools::install_github("vqv/ggbiplot")  # For PCA biplots
 
