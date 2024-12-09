@@ -43,6 +43,13 @@ The app is designed to be a user-friendly interface for exploring, visualizing, 
   - Scale-Location Plots
 - Compare models using Adjusted R², AIC, and BIC.
 
+### Folder Structure
+- **Data**: Contains the cleaned and scaled datasets (`cleaned_penguins.csv`, `scaled_penguins.csv`).
+- **Initial Visualizations**: Includes visualizations created during the exploratory data analysis phase.
+- **Enhanced Visualizations**: Contains improved and final visualizations.
+- **PCA Visualizations**: Includes PCA-specific plots like scree plots and biplots.
+- **Final_Project_App**: Shiny app files and scripts for deploying the project.
+
 ## Installation Instructions
 ### Prerequisites
 Ensure you have R and RStudio installed.
