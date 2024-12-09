@@ -1,0 +1,12 @@
+name: Final_Project_App
+title: Final_Project_App
+username: fof23p-adrian-muro
+account: fof23p-adrian-muro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13556225
+bundleId: 9485796
+url: https://fof23p-adrian-muro.shinyapps.io/Final_Project_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
