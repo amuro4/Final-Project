@@ -1,6 +1,6 @@
 # Final Project: Palmer Penguins Statistical Analysis and Shiny App
 
-App: https://fof23p-adrian-muro.shinyapps.io/Final_Project_App/
+App: [Deployed Shiny App](https://fof23p-adrian-muro.shinyapps.io/Final_Project_App/)
 
 ## Project Overview
 This project analyzes the `palmerpenguins` dataset using R and an interactive Shiny app. The objectives include:
@@ -42,6 +42,14 @@ The app is designed to be a user-friendly interface for exploring, visualizing, 
   - Q-Q Plots
   - Scale-Location Plots
 - Compare models using Adjusted R², AIC, and BIC.
+
+---
+
+### Known Limitation
+The app **does not include a feature to create a new column** based on user-defined operations (e.g., addition, subtraction).  
+- **Reason**: During development, integrating this feature caused other critical functionalities (e.g., EDA, PCA) to break. After multiple attempts, the feature was excluded to preserve the app's core functionality and stability.
+
+---
 
 ### Folder Structure
 - **Data**: Contains the cleaned and scaled datasets (`cleaned_penguins.csv`, `scaled_penguins.csv`).
